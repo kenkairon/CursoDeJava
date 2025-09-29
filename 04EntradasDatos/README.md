@@ -6,4 +6,4 @@
 
 ### Ejercicio de Lectura de Datos
 
-[Ejercicio Entrada](entradasDatos.java)
+[Ejercicio Entrada](entradaDatos.java)
