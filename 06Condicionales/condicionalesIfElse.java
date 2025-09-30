@@ -1,16 +1,18 @@
 import java.util.Scanner;
 
-public class condicionalesIfBasico {
+public class condicionalesIfElse {
     public static void main(String[] args) {
-        // se crea una instancia
         Scanner ingresoTeclado = new Scanner(System.in);
-        // leer int
-        System.out.print("Ingresa la Edad : ");
+
+        System.out.print("ingresa la edad : ");
         int edad = ingresoTeclado.nextInt();
 
         if (edad >= 18) {
-            System.out.println("Sos mayor de edad");
+            System.out.println("Eres Mayor de edad");
+        } else {
+            System.out.println("Eres Menor de edad");
         }
+
         ingresoTeclado.close();
     }
 }
