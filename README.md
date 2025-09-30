@@ -22,4 +22,5 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 11.[BreakYContinue](10BreakYContinue)
 12.[Mini Proyecto](MiniProyecto)
 
+---
 🔗 Cada carpeta contiene ejercicios y ejemplos con código en Java.
