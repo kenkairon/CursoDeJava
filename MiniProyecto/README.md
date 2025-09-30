@@ -4,6 +4,6 @@
 
 ![Mini Proyectos Objetivos](img/Objetivos.png)
 
-### Resolucion 
+### Mini Proyecto
 
 [Resolucion](miniProyecto.java)
