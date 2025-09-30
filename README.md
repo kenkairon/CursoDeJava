@@ -15,12 +15,12 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 
 ## 📑 Índice de Contenidos Módulo2: Control de Flujo
 
-7.[Condicionales](06Condicionales)
-8.[OperadoresTernario](07OperadorTernario)
-9.[SwitchCase](08SwitchCase)
-10.[Ciclos](09Ciclos)
-11.[BreakYContinue](10BreakYContinue)
-12.[Mini Proyecto](MiniProyecto)
+7.  [Condicionales](06Condicionales)
+8.  [OperadoresTernario](07OperadorTernario)
+9.  [SwitchCase](08SwitchCase)
+10. [Ciclos](09Ciclos)
+11. [BreakYContinue](10BreakYContinue)
+12. [Mini Proyecto](MiniProyecto)
 
 ---
 🔗 Cada carpeta contiene ejercicios y ejemplos con código en Java.
