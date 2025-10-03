@@ -19,4 +19,4 @@ un bloque 'default' que se ejecutará.
 
 #### Ejemplo básico de Case
 
-[Ejemplo Básico Case ejericios de Dias](ejercicioSwtichCase.java)
+[Ejemplo Básico Case ejericios de Dias](ejercicioSwitchCase.java)
