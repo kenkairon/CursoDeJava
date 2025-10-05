@@ -27,7 +27,7 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 
 ## 📑 Índice de Contenidos Módulo4: Métodos y estructuras básicas
 
-13.  [Condicionales](11Metodos)
+13.  [Métodos](11Metodos)
 14.  [Parámetros y retornos de valores](12ParametrosRetornos)
 15.  [Scope](13Scope)
 16.  [Overloading](14Overloading)
