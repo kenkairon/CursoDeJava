@@ -25,7 +25,7 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 ---
 
 
-## 📑 Índice de Contenidos Módulo4: Métodos y estructuras básicas
+## 📑 Índice de Contenidos Módulo4: Métodos y Estructuras básicas
 
 13.  [Métodos](11Metodos)
 14.  [Parámetros y retornos de valores](12ParametrosRetornos)
