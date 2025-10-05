@@ -2,7 +2,7 @@
 
 Este repositorio contiene ejemplos prácticos organizados por temas para aprender Java paso a paso.  
 
-## 📑 Índice de Contenidos Módulo1: Introducción a Java
+## 📑 Índice de Contenidos Módulo2: Introducción a Java
 
 1. [Tipos de Datos](01TiposDeDatos)  
 2. [Operadores](02Operadores)  
@@ -13,7 +13,7 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 
 ---
 
-## 📑 Índice de Contenidos Módulo2: Control de Flujo
+## 📑 Índice de Contenidos Módulo3: Control de Flujo
 
 7.  [Condicionales](06Condicionales)
 8.  [OperadoresTernario](07OperadorTernario)
@@ -22,5 +22,15 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 11. [BreakYContinue](10BreakYContinue)
 12. [Mini Proyecto](MiniProyecto)
 
+---
+
+
+## 📑 Índice de Contenidos Módulo4: Métodos y estructuras básicas
+
+13.  [Condicionales](11Metodos)
+14.  [Parámetros y retornos de valores](12ParametrosRetornos)
+15.  [Scope](13Scope)
+16.  [Overloading](14Overloading)
+17.  [MiniProyecto](MiniProyecto02)
 ---
 🔗 Cada carpeta contiene ejercicios y ejemplos con código en Java.
