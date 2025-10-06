@@ -28,9 +28,8 @@ Este repositorio contiene ejemplos prácticos organizados por temas para aprende
 ## 📑 Índice de Contenidos Módulo4: Métodos y Estructuras básicas
 
 13.  [Métodos](11Metodos)
-14.  [Parámetros y retornos de valores](12ParametrosRetornos)
-15.  [Scope](13Scope)
-16.  [Overloading](14Overloading)
-17.  [MiniProyecto](MiniProyecto02)
+14.  [Scope](12Scope)
+15.  [Overloading](13Overloading)
+16.  [MiniProyecto](MiniProyecto02)
 ---
 🔗 Cada carpeta contiene ejercicios y ejemplos con código en Java.
