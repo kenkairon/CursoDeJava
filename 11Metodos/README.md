@@ -17,3 +17,6 @@ return valor; //Solo si el tipo de retorno no es void
 }
 
 ```
+
+## Ejemplo de métodos 
+[método saludar](metodos.java)
