@@ -17,6 +17,9 @@ return valor; //Solo si el tipo de retorno no es void
 }
 
 ```
-
 ## Ejemplo de métodos 
-[método saludar](metodos.java)
+[Método saludar](metodos.java)
+
+[Métodos con retorno](12ParametrosRetornos/metodosConRetorno.java)
+
+[Métodos sin retorno](metodosSinRetornos.java)
